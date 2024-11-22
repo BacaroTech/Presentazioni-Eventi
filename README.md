@@ -3,7 +3,7 @@ Questa repository raccoglie tutte le presentazioni degli eventi che abbiamo orga
 
 ## Social e Contatti
 - 🌳 [Link Tree Homemade](https://bacarotech.github.io/)
-- 📷 [Instagram](https://www.instagram.com/bacarotech23/)
+- 📷 [Instagram](https://www.instagram.com/bacarotechofficial/)
 - 🎵 [TikTok](https://www.tiktok.com/@bacarotech)
 - 🎥 [Youtube](https://www.youtube.com/@Bacarotech)
 - 📫 Email: **bacarotech@gmail.com**
